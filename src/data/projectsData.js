@@ -30,10 +30,10 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Clone of Mytheresa.com',
-        projectDesc: '',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectDesc: 'This project aims to build Mytheresa website is an e-commerce website for fashion and design products of all the leading brands. Built frontend, backend and API for this. ',
+        tags: ['Node js', 'Express Js', 'Mongo DB', 'Ejs'],
+        code: 'https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Mytheresa.com-',
+        demo: 'https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Mytheresa.com-',
         image: three
     },
     // {
