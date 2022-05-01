@@ -72,6 +72,7 @@ function Testimonials() {
                                                 }}
                                             >
                                                 <img
+                                                    id='image'
                                                     src={test.image}
                                                     alt={test.name}
                                                 />
