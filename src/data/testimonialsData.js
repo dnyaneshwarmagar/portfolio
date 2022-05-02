@@ -23,6 +23,13 @@ export const testimonialsData = [
         text: "I would like to recommend Dnyaneshwar because of his expertise to any person looking for a software developer. He is a profound person and his ability to tackle any problem with a warm smile is remarkable.  I studied with him and I noticed that he always make sure everyone is smiling and happy. Dnyaneshwar would become an perfect member of any team.",
         image: 'https://media-exp1.licdn.com/dms/image/C5603AQHKBoLz8cJshg/profile-displayphoto-shrink_100_100/0/1645038896981?e=1656547200&v=beta&t=sOLEishBemlXgWMc6oIH1nDWBhwXDeM4JE7cYaJkPog'
     },
+    {
+        id: 2,
+        name: 'Anusha Surendran',
+        title: 'Classmate at Masai',
+        text: "Dnyaneshwar is a disciplined, self motivated person who thrives for professionalism in his job. A nice and gentle human being by nature. He has good interpersonal, presentation and team management skill. His genuine helping nature, patience, logical thinking and problem solving skills helped everyone around a lot. He will be perfect fit in any team.",
+        image: 'https://media-exp1.licdn.com/dms/image/C5603AQF1ya4T-dLZQw/profile-displayphoto-shrink_100_100/0/1646135443349?e=1657152000&v=beta&t=-Qpoa_UJ1qxxBX-nLtCspA1OHK-yehhPy79ljInn4jo'
+    },
     // {
     //     id: 3,
     //     name: 'Phoebe Buffay',
