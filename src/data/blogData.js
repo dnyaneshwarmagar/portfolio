@@ -11,20 +11,20 @@ export const blogData = [
     },
     {
         id: 2,
-        title: 'Blog onCloning E-Commerce website Bewkoof.com',
+        title: 'Blog on Cloning E-Commerce website Bewkoof.com',
         description: 'Find out how to build websites and what a construct week at Masai school is like, from the guy who hustled through it. Know more about endeavour of building this web application from scratch usin HTML,CSS,Javascript',
         date: 'Oct 03, 2021',
         image: one,
         url: 'https://medium.com/@dnyaneshwarmagar276/cloning-e-commerce-website-bewkoof-com-ebbf6066fb04'
     },
-    // {
-    //     id: 3,
-    //     title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-    //     description: 'Here are some basic ways to lay off the Radar',
-    //     date: 'Aug 14, 2020',
-    //     image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-    //     url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
-    // },
+    {
+        id: 3,
+        title: 'Blog on Cloning of Overstock.com',
+        description: 'All you know about how to build a fully fledged MERN app',
+        date: 'May 10, 2022',
+        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
+        url: 'https://medium.com/@dnyaneshwarmagar276'
+    },
     // {
     //     id: 4,
     //     title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',
