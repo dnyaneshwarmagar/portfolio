@@ -22,7 +22,7 @@ export const blogData = [
         title: 'Blog on Cloning of Overstock.com',
         description: 'All you know about how to build a fully fledged MERN app',
         date: 'May 10, 2022',
-        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
+        image: one,
         url: 'https://medium.com/@dnyaneshwarmagar276'
     },
     // {
