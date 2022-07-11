@@ -45,6 +45,24 @@ export const projectsData = [
         demo: 'https://overstockfrontend.vercel.app/',
         image: four
     },
+    {
+        id: 5,
+        projectName: 'My Youtube App',
+        projectDesc: 'In this project tried to implement some functionalites of youtube app. Built with HTML,CSS and Javascript. Used Youtube API.',
+        tags: ['HTML','CSS', 'Javascript'],
+        code: 'https://github.com/dnyaneshwarmagar/projects/tree/main/youtube-clone',
+        demo: 'https://my-youtube-app-123456.netlify.app/',
+        image: four
+    },
+    {
+        id: 6,
+        projectName: 'Weather  App',
+        projectDesc: 'Built Weather app which will will show weather and map of required city. Built using HTML, CSS, Javascript. Used Weather and Google Map API',
+        tags: ['HTML','CSS', 'Javascript'],
+        code: 'https://github.com/dnyaneshwarmagar/projects/tree/main/weather%26map',
+        demo: 'https://my-weather-app-aff397.netlify.app//',
+        image: four
+    },
 
 
 ]
