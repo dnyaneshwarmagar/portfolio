@@ -36,15 +36,15 @@ export const projectsData = [
         demo: 'https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Mytheresa.com-',
         image: three
     },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
+    {
+        id: 4,
+        projectName: 'Overstock Website Clone',
+        projectDesc: 'This project involves the cloning of Overstack website which is platform for furniture and other home appliances. Built frontend using React Js and backend using Node Js. Database using MongoDB',
+        tags: ['React Js','Node js', 'Express Js', 'Mongo DB'],
+        code: 'https://github.com/dnyaneshwarmagar/Overstock-Clone',
+        demo: 'https://overstockfrontend.vercel.app/',
+        image: four
+    },
 
 
 ]
