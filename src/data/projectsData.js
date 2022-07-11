@@ -1,7 +1,7 @@
 import one from '../assets/png/projects/samsung.PNG'
 import two from '../assets/png/projects/bewkoof.PNG'
 import three from '../assets/png/projects/mytheresa.PNG'
-// import four from '../assets/svg/projects/four.svg'
+import four from '../assets/svg/projects/four.svg'
 // import five from '../assets/svg/projects/five.svg'
 // import six from '../assets/svg/projects/six.svg'
 // import seven from '../assets/svg/projects/seven.svg'
