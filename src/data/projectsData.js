@@ -68,8 +68,8 @@ export const projectsData = [
         projectName: 'E-commerce-Platform-React',
         projectDesc: ' Built using React Js,Redux HTML, CSS, Javascript. Used fake E-commerce API for backend',
         tags: ['React','Redux', 'Javascript'],
-        code: 'https://github.com/dnyaneshwarmagar/projects/tree/main/weather%26map',
-        demo: 'https://my-weather-app-aff397.netlify.app//',
+        code: 'https://github.com/dnyaneshwarmagar/ecommerce-Platform-React',
+        demo: 'https://ecommerce-platform-react.vercel.app/',
         image: four
     },
 
