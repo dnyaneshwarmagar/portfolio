@@ -57,8 +57,17 @@ export const projectsData = [
     {
         id: 6,
         projectName: 'Weather  App',
-        projectDesc: 'Built Weather app which will will show weather and map of required city. Built using HTML, CSS, Javascript. Used Weather and Google Map API',
+        projectDesc: 'Built Weather app which will show weather and map of required city. Built using HTML, CSS, Javascript. Used Weather and Google Map API',
         tags: ['HTML','CSS', 'Javascript'],
+        code: 'https://github.com/dnyaneshwarmagar/projects/tree/main/weather%26map',
+        demo: 'https://my-weather-app-aff397.netlify.app//',
+        image: four
+    },
+    {
+        id: 7,
+        projectName: 'E-commerce-Platform-React',
+        projectDesc: ' Built using React Js,Redux HTML, CSS, Javascript. Used fake E-commerce API for backend',
+        tags: ['React','Redux', 'Javascript'],
         code: 'https://github.com/dnyaneshwarmagar/projects/tree/main/weather%26map',
         demo: 'https://my-weather-app-aff397.netlify.app//',
         image: four
