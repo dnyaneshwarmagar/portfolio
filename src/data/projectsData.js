@@ -1,11 +1,13 @@
-import one from '../assets/png/projects/samsung.PNG'
-import two from '../assets/png/projects/bewkoof.PNG'
-import three from '../assets/png/projects/mytheresa.PNG'
-import four from '../assets/svg/projects/four.svg'
-// import five from '../assets/svg/projects/five.svg'
-// import six from '../assets/svg/projects/six.svg'
-// import seven from '../assets/svg/projects/seven.svg'
-// import eight from '../assets/svg/projects/eight.svg'
+import samsung from '../assets/png/projects/samsung.PNG'
+import MyNotes from '../assets/png/projects/MyNotes.PNG'
+import mytheresa from '../assets/png/projects/mytheresa.PNG'
+import Overstock from '../assets/png/projects/Overstock.PNG'
+import bewkoof from '../assets/png/projects/bewkoof.PNG'
+import youtube from '../assets/png/projects/youtube.PNG'
+import Weather from '../assets/png/projects/Weather.PNG'
+import EcomReact from '../assets/png/projects/EcomReact.PNG'
+
+
 
 
 export const projectsData = [
@@ -16,16 +18,16 @@ export const projectsData = [
         tags: ['HTML', 'CSS', 'JAVASCRIPT'],
         code: 'https://github.com/dnyaneshwarmagar/Project-on-Clonig-of-Samsung-Website',
         demo: 'https://samsung-clone-dnyaneshm-project.netlify.app/',
-        image: one
+        image: samsung
     },
     {
         id: 2,
-        projectName: 'Clone of Bewakoof.com',
-        projectDesc: 'This project aims to build an web application Bewakoof.com which is an e-commerce website for fashion,accessories and style products in India',
-        tags: ['HTML', 'CSS', 'JAVASCRIPT'],
-        code: 'https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Bewkoof.com',
-        demo: 'https://bewakoof-dnyaneshm-project.netlify.app/',
-        image: two
+        projectName: 'MyNotes-App',
+        projectDesc: 'This project aims to build an web application MyNotes app  which is an app which can be used to keep notes of a user.',
+        tags: ['MERN', 'REACT JS', 'EXPRESS','NODE JS','MONGO DB'],
+        code: 'https://github.com/dnyaneshwarmagar/Note-Keeper-MERN-app',
+        demo: 'https://mynotes-app--mern.herokuapp.com/',
+        image: MyNotes
     },
     {
         id: 3,
@@ -34,7 +36,7 @@ export const projectsData = [
         tags: ['Node js', 'Express Js', 'Mongo DB', 'Ejs'],
         code: 'https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Mytheresa.com-',
         demo: 'https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Mytheresa.com-',
-        image: three
+        image: mytheresa
     },
     {
         id: 4,
@@ -43,34 +45,43 @@ export const projectsData = [
         tags: ['React Js','Node js', 'Express Js', 'Mongo DB'],
         code: 'https://github.com/dnyaneshwarmagar/Overstock-Clone',
         demo: 'https://overstockfrontend.vercel.app/',
-        image: four
+        image: Overstock
     },
     {
         id: 5,
+        projectName: 'Clone of Bewakoof.com',
+        projectDesc: 'This project aims to build an web application Bewakoof.com which is an e-commerce website for fashion,accessories and style products in India',
+        tags: ['HTML', 'CSS', 'JAVASCRIPT'],
+        code: 'https://github.com/dnyaneshwarmagar/Project-on-Cloning-of-Bewkoof.com',
+        demo: 'https://bewakoof-dnyaneshm-project.netlify.app/',
+        image: bewkoof
+    },
+    {
+        id: 6,
         projectName: 'My Youtube App',
         projectDesc: 'In this project tried to implement some functionalites of youtube app. Built with HTML,CSS and Javascript. Used Youtube API.',
         tags: ['HTML','CSS', 'Javascript'],
         code: 'https://github.com/dnyaneshwarmagar/projects/tree/main/youtube-clone',
         demo: 'https://my-youtube-app-123456.netlify.app/',
-        image: four
+        image: youtube
     },
     {
-        id: 6,
+        id: 7,
         projectName: 'Weather  App',
         projectDesc: 'Built Weather app which will show weather and map of required city. Built using HTML, CSS, Javascript. Used Weather and Google Map API',
         tags: ['HTML','CSS', 'Javascript'],
         code: 'https://github.com/dnyaneshwarmagar/projects/tree/main/weather%26map',
         demo: 'https://my-weather-app-aff397.netlify.app//',
-        image: four
+        image: Weather
     },
     {
-        id: 7,
+        id: 8,
         projectName: 'E-commerce-Platform-React',
         projectDesc: ' Built using React Js,Redux HTML, CSS, Javascript. Used fake E-commerce API for backend',
         tags: ['React','Redux', 'Javascript'],
         code: 'https://github.com/dnyaneshwarmagar/ecommerce-Platform-React',
         demo: 'https://ecommerce-platform-react.vercel.app/',
-        image: four
+        image: EcomReact
     },
 
 
