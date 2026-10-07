@@ -11,6 +11,6 @@ export const experienceData = [
         company: 'Taazaa Tech Pvt Ltd, Noida',
         jobtitle: 'Associate Software Engineer',
         startYear: 'Sep 2022',
-        endYear: ' Dec 2023'
+        endYear: 'Dec 2023'
     },
 ]

@@ -2,7 +2,8 @@ import React, { useContext } from 'react';
 import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
 
 import { ThemeContext } from './contexts/ThemeContext';
-import { Main, BlogPage, ProjectPage, Project_Ai_Ml_Page } from './pages'
+import { Main, BlogPage, ProjectPage } from './pages'
+import { Project_Ai_Ml_Page } from './pages'
 import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
 

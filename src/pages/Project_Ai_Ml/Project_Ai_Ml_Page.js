@@ -8,10 +8,10 @@ import { AiOutlineHome } from "react-icons/ai";
 import './ProjectPage.css'
 import { SingleProject } from '../../components';
 import { ThemeContext } from '../../contexts/ThemeContext';
-import { projectsData } from '../../data/projectsData'
+import { projectsData } from '../../data/projectsAiMlData'
 import { headerData } from '../../data/headerData'
 
-function ProjectPage() {
+function Project_Ai_Ml_Page() {
 
     const [search, setSearch] = useState('')
     const { theme } = useContext(ThemeContext);
@@ -104,4 +104,4 @@ function ProjectPage() {
     )
 }
 
-export default ProjectPage
+export default Project_Ai_Ml_Page
