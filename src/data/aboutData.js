@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Dnyaneshwar. Proficient Full Stack Web Developemer with 1 year of developement experience.",
-    description2: "Efficient full stack developer with knowledge of Frontend, APIs and Backend technologies. Proficient in MERN stack. Seeking to further improve web development skills as the future lead  developer.",
+    description1: "I’m a software engineer with 2.5 years of industry experience, now channeling my passion into AI and machine learning. With hands‑on expertise in building AI/ML projects, I thrive on turning data into intelligent solutions. My journey blends solid engineering foundations with a drive to innovate in AI, as I transition toward becoming a full‑fledged AI/ML engineer.",
+    description2: "p",
     image: 2
 }

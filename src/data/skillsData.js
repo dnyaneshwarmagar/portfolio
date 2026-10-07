@@ -1,16 +1,44 @@
 export const skillsData = [
+    // AI/ML related
+    'Python',
+    'Machine Learning',
+    'Deep Learning',
+    'Tensorflow',
+    'Pytorch',
+    'Scikit-learn',
+    'Numpy',
+    'Pandas',
+    'OpenCV',
+    'RAG',
+    'LLMs',
+
+    // Agentic AI related
+    'LangChain',
+    'Langgraph',
+
+    // Cloud related
+    'AWS',
+    'Azure',
+    'GCP',
+    'Docker',
+    'Kubernetes',
+
+    // Web/Dev stack
     'HTML',
     'Javascript',
+    'Typescript',
     'CSS',
     'React',
     'Node JS',
-    'Figma',
-    'Git',
+    'Express JS',
     'MongoDB',
-    'AWS',
     'Bootstrap',
-    'Express JS'
+    'Git',
+    'Figma'
 ]
+
+
+
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new

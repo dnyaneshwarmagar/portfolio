@@ -3,8 +3,8 @@ import img from "../assets/png/img-prof.jpg";
 
 export const headerData = {
     name: 'Dnyaneshwar Magar',
-    title: "Full Stack Web Developer",
-    desciption: "Love to design, visualize and develope web pages, problem-solver and enjoy collaborating with people! ",
+    title: "Aspiring AI / ML Engineer",
+    desciption: "Passionate AI/ML engineer and problem‑solver, driven by curiosity and a love for building intelligent solutions.",
     image: img,
     resumePdf: resume
 }

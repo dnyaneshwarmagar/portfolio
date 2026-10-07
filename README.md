@@ -508,3 +508,12 @@ export const educationData = [
         </tr>
     </table>
 </div> -->
+
+
+-commands needed to setup project:
+npm install --legacy-peer-deps
+-to create build
+set NODE_OPTIONS=--openssl-legacy-provider
+npm run build
+
+project cannot be run, only build deployed on netlify can run
